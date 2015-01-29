@@ -16,8 +16,7 @@ letter removed.
 -- functions use:  define, string-append, substring.
 
 ## NOTE: From now on, I won't mention that I used define, because, well. 
-I pretty much use it everywhere, and I believe it's one of the most used 
-functions if not the most, within this language. ##
+That function is pretty much used everywhere within this language. ##
 
  
 
