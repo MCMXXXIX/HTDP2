@@ -1,0 +1,23 @@
+Ex 1: This one was pretty simple, the only thing I had to do, was to use 
+functions to define the cartesian distance equation.
+
+-- functions used: define, sqr, sqrt.
+
+Ex 2: What I did here was simple and quick aswell, defined the strings 
+that I had to use, incluiding the underscore ("_") and then just put it 
+altogether with the string-append function.
+
+-- functions used: define, string-append 
+
+Ex 3: Here, I had to extract a letter from the string and the use 
+functions to manipulate the result and make one whole string minus the 
+letter removed. 
+
+-- functions use:  define, string-append, substring.
+
+## NOTE: From now on, I won't mention that I used define, because, well. 
+I pretty much use it everywhere, and I believe it's one of the most used 
+functions if not the most, within this language. ##
+
+ 
+
