@@ -26,3 +26,10 @@ Perhaps next time I'll try to copy a random car's model and attempt to do it wit
 hachiroku. But until then I guess that white and red box with two pathetic wheels are going to be enough.
  
 
+--
+
+I'll update the about Exercises with content from 7 to 9 later, I just felt like talking about 10.
+
+Ex 10: This one was quite easy, I just had to define an expresion that computes the width or height of X image.
+And then use it's output to compare it. Perhaps there are more ways to do this in a more elegant manner, but I think the
+way I did would do for the time being.
